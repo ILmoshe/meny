@@ -11,3 +11,5 @@ do
    done
    echo ""
 done
+
+echo "We are nwo on branch linux meny"
