@@ -12,4 +12,4 @@ do
    echo ""
 done
 
-echo "We are nwo on branch linux meny"
+echo "We are now on branch linux meny"
