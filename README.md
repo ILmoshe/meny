@@ -1,0 +1,4 @@
+# meny
+Stuff on Meny classes
+
+THIS IS THE MAIN PLACE ALL MENY'S WORK WILL BE FROM 11.12.2021
